@@ -1,0 +1,78 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    Overflow:hidden;
+
+}
+
+#container{
+    Border:2px solid black;
+    width:400vw;
+    height:100vh;
+    display:flex;
+    overflow:hidden;
+   
+}
+    
+
+.size{
+    height:100%;
+    width:100%;
+}
+   
+.outline{
+    border:2px solid black;
+    /* margin:5px; */
+    height:100%;
+    width:100%;
+    
+    
+}
+/* .position{
+    position:absolute;
+    left:0px;
+    
+} */
+
+
+/* .transition-images{
+    transform:translateX(100%);
+    transition-property:transform;
+    transition-delay:1s;
+    transition-timing-function:ease-in;
+    transition-duration:5s;
+   
+} */
+    
+
+
+   
+
+
+
+        
+       
+
+
+    
+
+  
+   
+
+
+
+      
+
+        
+
+
+
+
+
+    
+
+
+
+    
